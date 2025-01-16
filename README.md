@@ -15,7 +15,7 @@ This is an automated bot to help you complete tasks, check in daily, and partici
 
    ```bash
    git clone https://github.com/SAAHO-SHANJAI/AIRDROP-BOT.git
-   cd fintopio-airdrop-bot
+   cd AIRDROP-BOT
    ```
 
 2. Install dependencies:
